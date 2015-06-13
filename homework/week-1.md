@@ -74,3 +74,5 @@ Hoshiko Oki - https://github.com/sufeiiz/Memeify/pull/6
 Pooja Pasawala - https://github.com/sufeiiz/Memeify/pull/7
 
 Ray Acevedo - https://github.com/sufeiiz/Memeify/pull/8
+
+Na Li - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/33
