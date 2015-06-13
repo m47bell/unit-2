@@ -46,3 +46,5 @@ Elvis Boves - https://github.com/tashsmit/Meme5/pull/17
 Marbella Vidals - https://github.com/personabe1984/Snap-Meme/pull/4
 
 Anthony Fermin - [Meme-ify Pull Request](https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/32)
+
+Yuliya Kaleda - [MemeRefactoring] (https://github.com/Yuliya-Kaleda/MemeProject/tree/master/MemeProject)
