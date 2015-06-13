@@ -35,6 +35,8 @@ Submit this as a pull request to the repository you forked, and submit a link to
 
 #### Submissions
 
+Abass B. - https://github.com/Yuliya-Kaleda/meme/pull/2
+
 Jose Garcia - https://github.com/ramonaharrison/meme-ify-me/pull/13
 
 Sarah Kim - https://github.com/Yuliya-Kaleda/meme/pull/1
