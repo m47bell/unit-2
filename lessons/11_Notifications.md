@@ -61,6 +61,10 @@ Notifcations have strict design guidelines since they appear outside the applica
 
 Fork this [Meme Project](https://github.com/MadelynTav/MemeProject). If you already have a fork of this project, work off a new branch. Add a feature that uploads the image to Dropbox in the background and sends you a notification when it's done.
 
+Lets start with pretending to upload and get the notifications correct, then try to integrate Dropbox, time permitting.  For future reference, when you see "Oauth", prepare to spend some time on it.
+
+[Dropbox Api](https://www.dropbox.com/developers/core/start/android)
+
 ### Assessment
 
 [Exit ticket](https://docs.google.com/forms/d/1a-gfjjsn35N-C6wrQU9y02vHoYLFaEfjUgD7J91n3rM/viewform?usp=send_form)
