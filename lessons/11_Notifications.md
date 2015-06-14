@@ -45,6 +45,10 @@ The `PendingIntent` object can be created using `PendingIntent.getActivity()`, `
 
 Notifications can be displayed on the lock screen. Using `setVisibility()` you can display the full notification on the lock screen using `VISIBILITY_PUBLIC`, not show the notification on the lock screen using `VISIBILITY_SECRET` and only show limited information using `VISIBILITY_PRIVATE`. If using a private notifcation, you can set up the lock screen version using `setPublicVersion()`.
 
+Some slides from Chuck Greb on Lollipop Notifications
+
+[Slides](http://www.slideshare.net/ecgreb/notifunk)
+
 #### Updating and Removing
 
 If a notification may need to be updated, use a notification ID when calling `.notify()`. You can then use this notification ID to call `.notify()` with the notification ID and the new Notification object. You can also use this notification ID to `cancel()` the notification.
