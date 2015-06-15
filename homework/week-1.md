@@ -69,12 +69,15 @@ Vanice Yee - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/31
 
 Anthony Fermin - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/32
 
+Na Li - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/33
+
 Allison Bojarski - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/34
 
 Alvin Kuang - https://github.com/MadelynTav/MemeProject/pull/22
 
 Joshelyn Vivas- https://github.com/MadelynTav/MemeProject/pull/24
 
+<<<<<<< HEAD
 Hoshiko Oki - https://github.com/sufeiiz/Memeify/pull/6
 
 Pooja Pasawala - https://github.com/sufeiiz/Memeify/pull/7
