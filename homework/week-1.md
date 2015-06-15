@@ -77,6 +77,8 @@ Jaellys Bales - https://github.com/MadelynTav/MemeProject/pull/21
 
 Alvin Kuang - https://github.com/MadelynTav/MemeProject/pull/22
 
+Yuliya Kaleda - https://github.com/MadelynTav/MemeProject/pull/23/files
+
 Joshelyn Vivas- https://github.com/MadelynTav/MemeProject/pull/24
 
 Hoshiko Oki - https://github.com/sufeiiz/Memeify/pull/6
@@ -86,3 +88,4 @@ Pooja Pasawala - https://github.com/sufeiiz/Memeify/pull/7
 Ray Acevedo - https://github.com/sufeiiz/Memeify/pull/8
 
 Ramona Harrison - https://github.com/jaellysbales/memeify-me/pull/18
+
