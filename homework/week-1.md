@@ -61,6 +61,8 @@ Sufei Zhao - https://github.com/tashsmit/Meme5/pull/18
 
 Rosmary Fermin - https://github.com/tashsmit/Meme5/pull/19
 
+Tasha Smith - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/30
+
 Anthony Fermin - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/32
 
 Allison Bojarski - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/34
