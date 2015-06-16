@@ -89,3 +89,5 @@ Ray Acevedo - https://github.com/sufeiiz/Memeify/pull/8
 
 Ramona Harrison - https://github.com/jaellysbales/memeify-me/pull/18
 
+Jorge Reina - https://github.com/personabe1984/Snap-Meme/pull/13
+
