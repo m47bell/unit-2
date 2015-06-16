@@ -16,6 +16,9 @@
 9 | June 11 | 2 | [Exercises](exercises/09_Exercises.md) |
 10 | June 13 | 2 | [Threads](lessons/10_Threads.md) |
 11 | June 14 | 3 | [Notifications](lessons/11_Notifications.md) |
+12 | June 16 | 3 | [Exercises](exercises/12_Exercises.md) |
+13 | June 18 | 3 | Site Visit |
+14 | June 20 | 3 | Intro to Final Project
 
 ### Homework
 
