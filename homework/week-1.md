@@ -75,6 +75,8 @@ Na Li - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/33
 
 Allison Bojarski - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/34
 
+Reinard Cox - https://github.com/ReinardCox/Meme-ify-Me-ARHM
+
 Jaellys Bales - https://github.com/MadelynTav/MemeProject/pull/21
 
 Alvin Kuang - https://github.com/MadelynTav/MemeProject/pull/22
