@@ -89,3 +89,4 @@ Ray Acevedo - https://github.com/sufeiiz/Memeify/pull/8
 
 Ramona Harrison - https://github.com/jaellysbales/memeify-me/pull/18
 
+Reinard Cox - https://github.com/ReinardCox/Meme-ify-Me-ARHM
