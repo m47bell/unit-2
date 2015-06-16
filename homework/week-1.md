@@ -55,6 +55,8 @@ Janneisy Vidals - https://github.com/personabe1984/Snap-Meme/pull/7
 
 Kadeem Maragh - https://github.com/personabe1984/Snap-Meme/pull/8
 
+Jorge Reina - https://github.com/personabe1984/Snap-Meme/pull/13
+
 Madelyn Tavarez - https://github.com/tashsmit/Meme5/pull/16
 
 Elvis Boves - https://github.com/tashsmit/Meme5/pull/17
@@ -88,6 +90,3 @@ Pooja Pasawala - https://github.com/sufeiiz/Memeify/pull/7
 Ray Acevedo - https://github.com/sufeiiz/Memeify/pull/8
 
 Ramona Harrison - https://github.com/jaellysbales/memeify-me/pull/18
-
-Jorge Reina - https://github.com/personabe1984/Snap-Meme/pull/13
-
