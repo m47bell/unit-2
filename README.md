@@ -18,7 +18,8 @@
 11 | June 14 | 3 | [Notifications](lessons/11_Notifications.md) |
 12 | June 16 | 3 | [Exercises](exercises/12_Exercises.md) |
 13 | June 18 | 3 | Site Visit |
-14 | June 20 | 3 | Intro to Final Project
+14 | June 20 | 3 | [Gradle and Launching to the Play Store](https://github.com/amyquispe/unit-2/blob/master/lessons/14_Gradle-Play.md) |
+15 | June 21 | 4 | Intro to Final Project
 
 ### Homework
 
