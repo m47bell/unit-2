@@ -30,11 +30,9 @@ Use Gradle to do the following with your app:
 
 > 1. Change the versionCode and versionName. Figure out [an appropriate version number](https://en.wikipedia.org/wiki/Point_release).
 
-> 1. Bonus: 
+> 1. Bonus: Select an app you'll release to the Play Store and fix the Gradle files as above. [Proguard](http://developer.android.com/tools/help/proguard.html) your app.
 
-### Lesson (Afternoon)
-
-### Do Now (Afternoon)
+### Pod Meetings (Afternoon)
 
 ### Lesson (Afternoon)
 
@@ -59,7 +57,11 @@ These are the steps for launching to the Google Play Store:
 
 ##### Libraries and Dependencies
 
+Sometimes you'll need extra 
+
 ### Exercises (Afternoon)
+
+
 
 ### Assessment
 
