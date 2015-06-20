@@ -2,7 +2,7 @@
 
 ### Do Now (Morning)
 
-Create a new blank Android app.
+Create a new blank Android app that includes a Fragment.
 
 ### Lesson (Morning)
 
@@ -24,7 +24,13 @@ Use Gradle to do the following with your app:
 
 > 1. Override the package name.
 
-> 1. 
+> 1. Change the midSdkVersion and targetSdkVersion. What's a reasonable minSdkVersion given that Fragments are used? What is the targetSdkVersion and what does that mean?
+
+> 1. Change the compileSdkVersion to Jellybean.
+
+> 1. Change the versionCode and versionName. Figure out [an appropriate version number](https://en.wikipedia.org/wiki/Point_release).
+
+> 1. Bonus: 
 
 ### Lesson (Afternoon)
 
