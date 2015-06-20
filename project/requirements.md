@@ -41,4 +41,4 @@ in previous years.
 * Infinite scrolling
 * Swipe to remove a card
 * Pull to refresh
-* A detail view, i.e. when a card is selcted, show more information, open another app, or do a Google search
+* Click for more info i.e. when a card is selcted, show more information, open another app, or do a Google search
