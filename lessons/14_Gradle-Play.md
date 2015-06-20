@@ -65,4 +65,4 @@ An important part of gradle is manging the different artifacts that need to be c
 
 ### Assessment
 
-### Resources
+[Exit Ticket](https://docs.google.com/a/c4q.nyc/forms/d/1a-gfjjsn35N-C6wrQU9y02vHoYLFaEfjUgD7J91n3rM/viewform)
