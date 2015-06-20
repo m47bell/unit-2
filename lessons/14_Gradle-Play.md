@@ -57,11 +57,11 @@ These are the steps for launching to the Google Play Store:
 
 ##### Libraries and Dependencies
 
-Sometimes you'll need extra 
+An important part of gradle is manging the different artifacts that need to be compiled and run with your apps.
 
 ### Exercises (Afternoon)
 
-
+> Exercise: Create an app using the [Picasso library](https://github.com/square/picasso).
 
 ### Assessment
 
