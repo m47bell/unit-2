@@ -92,3 +92,5 @@ Pooja Pasawala - https://github.com/sufeiiz/Memeify/pull/7
 Ray Acevedo - https://github.com/sufeiiz/Memeify/pull/8
 
 Ramona Harrison - https://github.com/jaellysbales/memeify-me/pull/18
+
+John Gomez - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/41
