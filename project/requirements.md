@@ -2,7 +2,7 @@
 
 #### Requirements
 
-The purpose of this project is to create a Google-Now style feed. Every item in the feed is a card. The user can
+The purpose of this project is to create a Google Now style feed. Every item in the feed is a card. The user can
 scroll through the feed of cards or interact with cards.
 
 You application should have the following properites:
