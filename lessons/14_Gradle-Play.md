@@ -2,7 +2,7 @@
 
 ### Do Now (Morning)
 
-Create a new Android app.
+Create a new blank Android app.
 
 ### Lesson (Morning)
 
@@ -12,11 +12,19 @@ Create a new Android app.
 
 In order to turn the software that we write into something that can be run on a computer, we must build it. This includes compiling it (turning it into byte code) and linking it (combining different pieces of software, e.g. using a library with your new code). Build scripts can also be used to run tests.
 
-##### Gradle and Maven
+##### What is Gradle?
 
-Gradle is not the only way to build Android projects. Ant and Maven are other build systems available for 
+Gradle is not the only way to build Android projects. Ant and Maven are other build systems available for Java and are commonly used for Android projects (especially Maven). Gradle is the default for Android Studio and is built on top of Groovy, which is a Ruby-like language built on the JVM.
 
-##### Android Projects
+`gradlew` is the Gradle Wrapper, which is its own script that determines how Gradle is run on the system.
+
+### Exercises (Morning)
+
+Use Gradle to do the following with your app:
+
+> 1. Override the package name.
+
+> 1. 
 
 ### Lesson (Afternoon)
 
