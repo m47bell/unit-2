@@ -12,6 +12,9 @@ You application should have the following properites:
 * Have consistent coding style across the source.
 * Have well-organized code that makes it easy to add new features.
 
+Remember to use the software engineering practices we've developed this unit! Work on different branches for
+different features. Code review each other. Design APIs together. You can do it!
+
 #### Features
 
 1. Must have a todo list feature that stores/retrieves a file locally.
