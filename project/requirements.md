@@ -11,6 +11,7 @@ You application should have the following properites:
 * Have a consistent look and feel visually across the app.
 * Have consistent coding style across the source.
 * Have well-organized code that makes it easy to add new features.
+* Either be locked to one orientation or look create in both landscape and portrait.
 
 Remember to use the software engineering practices we've developed this unit! Work on different branches for
 different features. Code review each other. Design APIs together. You can do it!
