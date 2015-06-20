@@ -14,7 +14,7 @@ You application should have the following properites:
 
 #### Features
 
-1. Must have a todo list feature that interally stores a file.
+1. Must have a todo list feature that stores/retrieves a file locally.
 1. Must have at least n of the following features, where n is the number of people in your team:
   * Weather card, customized to user's location (can use zip code, GPS, etc)
   * Stock Market card, customized to list of user's favorite stocks
