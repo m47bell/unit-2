@@ -8,6 +8,7 @@ scroll through the feed of cards or interact with cards.
 You application should have the following properites:
 * Does not crash.
 * Does not hang - that is, there should be little to no delay visible to the user.
+* Does not fail when internet connection is slow/unavailable.
 * Have a consistent look and feel visually across the app.
 * Have consistent coding style across the source.
 * Have well-organized code that makes it easy to add new features.
