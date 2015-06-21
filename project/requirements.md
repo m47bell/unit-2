@@ -47,3 +47,17 @@ in previous years.
 * Swipe to remove a card
 * Pull to refresh
 * Click for more info i.e. when a card is selcted, show more information, open another app, or do a Google search
+
+#### Submission
+
+Submit your projects by July 1st at 10:00pm. Submit your projects by adding a link to your repo below.
+
+We will have demos in class on Thursday July 2nd. I will probably ask your team one or two technical questions based
+on your source.
+
+We will also have demo rehearsals in class on Thursday June 30th. These are not optional, so prepare to be code
+complete by this date at the latest.
+
+#### Submissions
+
+Team Names - github.com/repository
