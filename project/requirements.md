@@ -51,7 +51,7 @@ in previous years.
 #### Submission
 
 Submit your projects by July 1st at 10:00pm. Submit your projects by adding a link to your repo below. Include
-in your README any instructions for getting your app set up and some basics of navigating your project.
+in your README instructions for getting your app set up and some basics of navigating your project.
 
 We will have demos in class on Thursday July 2nd. I will probably ask your team one or two technical questions based
 on your source.
