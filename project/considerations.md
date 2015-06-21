@@ -6,3 +6,4 @@
 1. Find ways to work together and learn from each other.
 1. Talk to other teams about your design decisions. Talk to other teams about bugs. A fresh pair of eyes always helps.
 1. Sleep is one of the best debugging tools out there and it doesn't even take long to learn!
+1. Think before you Google. Google with intention.
