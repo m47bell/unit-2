@@ -10,9 +10,8 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 import nyc.c4q.ac21.jrod.github.model.Repository;
-import nyc.c4q.ac21.jrod.github.ui.ProfileActivity;
 
-public class RepositoryAdapter extends ArrayAdapter<Repository>{
+public class RepositoryAdapter extends ArrayAdapter<Repository> {
     private final Context context;
 
     public RepositoryAdapter(Context context) {
@@ -22,7 +21,7 @@ public class RepositoryAdapter extends ArrayAdapter<Repository>{
 
     @Override
     public View getView(int position, View view, ViewGroup parent) {
-        if(view == null) {
+        if (view == null) {
             view = LayoutInflater.from(context).inflate(android.R.layout.simple_list_item_2, parent, false);
         }
 

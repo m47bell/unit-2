@@ -14,10 +14,10 @@ import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
-import nyc.c4q.ac21.jrod.github.rest.APIManager;
-import nyc.c4q.ac21.jrod.github.rest.GithubService;
 import nyc.c4q.ac21.jrod.github.R;
 import nyc.c4q.ac21.jrod.github.model.Repository;
+import nyc.c4q.ac21.jrod.github.rest.APIManager;
+import nyc.c4q.ac21.jrod.github.rest.GithubService;
 import retrofit.Callback;
 import retrofit.RetrofitError;
 import retrofit.client.Response;

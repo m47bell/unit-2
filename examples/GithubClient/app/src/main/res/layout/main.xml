@@ -27,10 +27,9 @@
                 android:hint="@string/hint_owner"
                 android:inputType="textNoSuggestions"
                 android:singleLine="true"
-                android:imeOptions="actionNext"
-                >
+                android:imeOptions="actionNext">
 
-                <requestFocus/>
+                <requestFocus />
 
             </EditText>
 
@@ -41,8 +40,7 @@
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:hint="@string/hint_repository"
                 android:inputType="textNoSuggestions"
-                android:singleLine="true"
-                />
+                android:singleLine="true" />
 
         </LinearLayout>
 
@@ -53,8 +51,7 @@
             android:scaleType="center"
             android:background="@null"
             android:layout_gravity="center_vertical"
-            android:onClick="loadRepositoryContributors"
-            />
+            android:onClick="loadRepositoryContributors" />
 
     </LinearLayout>
 
@@ -64,19 +61,19 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         tools:listitem="@layout/list_item_contributor" />
-    
+
     <LinearLayout
         android:id="@android:id/empty"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/layout_horizontal_margin">
-        
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="@string/text_no_contributors" />
-        
+
     </LinearLayout>
 
 </LinearLayout>

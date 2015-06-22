@@ -33,7 +33,7 @@ public class APIManager {
     }
 
     public static GithubService getGithubService() {
-        if(apiManager == null) {
+        if (apiManager == null) {
             apiManager = new APIManager();
         }
         return apiManager.githubService;

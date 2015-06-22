@@ -11,8 +11,7 @@
         android:layout_height="@dimen/list_detail_image_size"
         android:src="@mipmap/ic_launcher"
         android:scaleType="centerInside"
-        android:adjustViewBounds="true"
-        />
+        android:adjustViewBounds="true" />
 
     <LinearLayout
         android:orientation="vertical"
@@ -28,8 +27,7 @@
             android:text="@string/preview_login"
             android:textSize="@dimen/login_text_size"
             android:layout_marginBottom="4dp"
-            android:layout_gravity="center_vertical"
-            />
+            android:layout_gravity="center_vertical" />
 
         <TextView
             android:id="@+id/contribution_count"
@@ -38,8 +36,7 @@
             android:layout_marginLeft="@dimen/layout_horizontal_margin"
             android:text="@string/preview_contributions"
             android:textSize="@dimen/contributions_text_size"
-            android:layout_gravity="center_vertical"
-            />
+            android:layout_gravity="center_vertical" />
 
     </LinearLayout>
 

@@ -11,16 +11,14 @@
         android:layout_height="wrap_content"
         android:src="@mipmap/ic_launcher"
         android:scaleType="center"
-        android:layout_margin="8dp"
-        />
+        android:layout_margin="8dp" />
 
     <TextView
         android:id="@+id/login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="\@johndoe"
-        android:layout_marginBottom="8dp"
-        />
+        android:layout_marginBottom="8dp" />
 
     <ListView
         android:id="@android:id/list"

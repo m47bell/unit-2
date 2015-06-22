@@ -13,10 +13,10 @@ import android.widget.Toast;
 
 import java.util.List;
 
-import nyc.c4q.ac21.jrod.github.rest.APIManager;
-import nyc.c4q.ac21.jrod.github.rest.GithubService;
 import nyc.c4q.ac21.jrod.github.R;
 import nyc.c4q.ac21.jrod.github.model.Contributor;
+import nyc.c4q.ac21.jrod.github.rest.APIManager;
+import nyc.c4q.ac21.jrod.github.rest.GithubService;
 import retrofit.Callback;
 import retrofit.RetrofitError;
 import retrofit.client.Response;
@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         repositoryView.setOnEditorActionListener(new TextView.OnEditorActionListener() {
             @Override
             public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
-                if(event.getKeyCode() == KeyEvent.KEYCODE_ENTER && event.getAction() == KeyEvent.ACTION_DOWN) {
+                if (event.getKeyCode() == KeyEvent.KEYCODE_ENTER && event.getAction() == KeyEvent.ACTION_DOWN) {
                     loadRepositoryContributors(null);
                     return true;
                 }
@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
     public void loadRepositoryContributors(View view) {
         String owner = ownerView.getText().toString();
         String repository = repositoryView.getText().toString();
-        if(!owner.isEmpty() && !repository.isEmpty()) {
+        if (!owner.isEmpty() && !repository.isEmpty()) {
             githubService.getContributors(owner, repository, new Callback<List<Contributor>>() {
                 @Override
                 public void success(List<Contributor> contributors, Response response) {

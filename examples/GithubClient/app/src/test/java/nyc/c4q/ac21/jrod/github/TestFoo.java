@@ -3,16 +3,11 @@ package nyc.c4q.ac21.jrod.github;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.robolectric.Robolectric;
-import org.robolectric.RobolectricGradleTestRunner;
 import org.robolectric.RobolectricTestRunner;
-import org.robolectric.RuntimeEnvironment;
 import org.robolectric.annotation.Config;
 
 import java.util.List;
 import java.util.concurrent.Executor;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 
 import nyc.c4q.ac21.jrod.github.model.Contributor;
 import nyc.c4q.ac21.jrod.github.rest.APIManager;
