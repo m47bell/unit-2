@@ -94,3 +94,5 @@ Ray Acevedo - https://github.com/sufeiiz/Memeify/pull/8
 Ramona Harrison - https://github.com/jaellysbales/memeify-me/pull/18
 
 John Gomez - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/41
+
+Hanbi Choi - https://github.com/ramonaharrison/meme-ify-me/pull/18
