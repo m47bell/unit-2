@@ -9,14 +9,15 @@ import retrofit.converter.GsonConverter;
 
 public class APIManager {
     public static final String API_URL = "https://api.github.com";
+    private static APIManager apiManager = null;
 
-    static {
+    private GithubService githubService;
+
+    private APIManager() {
         setupRestClients();
     }
 
-    private static GithubService githubService;
-
-    private static void setupRestClients() {
+    private void setupRestClients() {
         Gson gson = new GsonBuilder()
                 .setFieldNamingPolicy(FieldNamingPolicy.LOWER_CASE_WITH_UNDERSCORES)
                 .create();
@@ -32,6 +33,9 @@ public class APIManager {
     }
 
     public static GithubService getGithubService() {
-        return githubService;
+        if(apiManager == null) {
+            apiManager = new APIManager();
+        }
+        return apiManager.githubService;
     }
 }
