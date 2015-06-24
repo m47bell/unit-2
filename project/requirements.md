@@ -56,7 +56,7 @@ in your README instructions for getting your app set up and some basics of navig
 We will have demos in class on Thursday July 2nd. I will probably ask your team one or two technical questions based
 on your source.
 
-We will also have demo rehearsals in class on Thursday June 30th. These are not optional, so prepare to be code
+We will also have demo rehearsals in class on Tuesday June 30th. These are not optional, so prepare to be code
 complete by this date at the latest.
 
 #### Submissions
