@@ -62,3 +62,5 @@ complete by this date at the latest.
 #### Submissions
 
 Team Names - github.com/repository
+
+Jose Garcia, George Syrimis, Marbella Vidals - https://github.com/jgarcia162/Final-Project
